@@ -1,0 +1,1316 @@
+fileFormatVersion: 2
+guid: f656074414b2ac347905e012fd159af9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1987021583939248720
+    second: hulk2_0
+  - first:
+      213: 3599452537007042202
+    second: hulk2_1
+  - first:
+      213: -3210853721084688181
+    second: hulk2_2
+  - first:
+      213: 1412878392857439789
+    second: hulk2_3
+  - first:
+      213: 3887254489134671039
+    second: hulk2_4
+  - first:
+      213: 2089453571622102165
+    second: hulk2_5
+  - first:
+      213: 1283012378611636685
+    second: hulk2_6
+  - first:
+      213: 5230924590028915046
+    second: hulk2_7
+  - first:
+      213: -5214619531045332878
+    second: hulk2_8
+  - first:
+      213: -5404237154730511006
+    second: hulk2_9
+  - first:
+      213: 8285593657245467953
+    second: hulk2_10
+  - first:
+      213: 1572963412385673456
+    second: hulk2_11
+  - first:
+      213: 5355458493975947747
+    second: hulk2_12
+  - first:
+      213: 8345839500007436303
+    second: hulk2_13
+  - first:
+      213: 2212601640171130186
+    second: hulk2_14
+  - first:
+      213: -2004679287755145183
+    second: hulk2_15
+  - first:
+      213: -7019173309488107570
+    second: hulk2_16
+  - first:
+      213: -6823152657494095240
+    second: hulk2_17
+  - first:
+      213: 8111288536098731206
+    second: hulk2_18
+  - first:
+      213: 4926205307626120802
+    second: hulk2_19
+  - first:
+      213: 3469359163482862604
+    second: hulk2_20
+  - first:
+      213: 5783888623886174941
+    second: hulk2_21
+  - first:
+      213: -254099732848203298
+    second: hulk2_22
+  - first:
+      213: 1513289064477483046
+    second: hulk2_23
+  - first:
+      213: 3251501097400916991
+    second: hulk2_24
+  - first:
+      213: 1980907265986235800
+    second: hulk2_25
+  - first:
+      213: 4642996952743916165
+    second: hulk2_26
+  - first:
+      213: 458924061941562927
+    second: hulk2_27
+  - first:
+      213: -3557288341965541865
+    second: hulk2_28
+  - first:
+      213: -8063565639793124055
+    second: hulk2_29
+  - first:
+      213: 6563495370483267179
+    second: hulk2_30
+  - first:
+      213: -8791235168404164632
+    second: hulk2_31
+  - first:
+      213: 5829558384550612630
+    second: hulk2_32
+  - first:
+      213: 3700455608859200235
+    second: hulk2_33
+  - first:
+      213: -6933860785437026809
+    second: hulk2_34
+  - first:
+      213: 8421784792843308158
+    second: hulk2_35
+  - first:
+      213: 4013796547503565172
+    second: hulk2_36
+  - first:
+      213: 1822717991576309555
+    second: hulk2_37
+  - first:
+      213: -8858213990411328040
+    second: hulk2_38
+  - first:
+      213: -3873077225804590181
+    second: hulk2_39
+  - first:
+      213: 6255215850911119208
+    second: hulk2_40
+  - first:
+      213: 8088709638946889848
+    second: hulk2_41
+  - first:
+      213: 4536276127419084108
+    second: hulk2_42
+  - first:
+      213: 7867761304025785992
+    second: hulk2_43
+  - first:
+      213: -2659402358963843331
+    second: hulk2_44
+  - first:
+      213: -7924938503662968071
+    second: hulk2_45
+  - first:
+      213: -2094821856636087469
+    second: hulk2_46
+  - first:
+      213: 7044652339275990574
+    second: hulk2_47
+  - first:
+      213: 1777868955587061353
+    second: hulk2_48
+  - first:
+      213: -8385715948692619036
+    second: hulk2_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hulk2_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 801
+        width: 120
+        height: 123
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 052abb75a91539b10800000000000000
+      internalID: 1987021583939248720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hulk2_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 820
+        width: 64
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9eee2ef203d3f130800000000000000
+      internalID: 3599452537007042202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hulk2_2
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 876
+        width: 97
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc881017d81c073d0800000000000000
+      internalID: -3210853721084688181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hulk2_3
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 824
+        width: 79
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ea71d996d8b9310800000000000000
+      internalID: 1412878392857439789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hulk2_4
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 711
+        width: 58
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb42a60cc5d42f530800000000000000
+      internalID: 3887254489134671039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hulk2_5
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 710
+        width: 58
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 594e437f3fa3ffc10800000000000000
+      internalID: 2089453571622102165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hulk2_6
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 710
+        width: 58
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9539de5fc2ec110800000000000000
+      internalID: 1283012378611636685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hulk2_7
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 708
+        width: 67
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6618783333af79840800000000000000
+      internalID: 5230924590028915046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hulk2_8
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 714
+        width: 65
+        height: 105
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2789a3d2a23f1a7b0800000000000000
+      internalID: -5214619531045332878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hulk2_9
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 714
+        width: 90
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265f15ec0fa4005b0800000000000000
+      internalID: -5404237154730511006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hulk2_10
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 712
+        width: 94
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135885548875cf270800000000000000
+      internalID: 8285593657245467953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hulk2_11
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 712
+        width: 87
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f03fefb3e944d510800000000000000
+      internalID: 1572963412385673456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hulk2_12
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 617
+        width: 74
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e9e8c63029625a40800000000000000
+      internalID: 5355458493975947747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hulk2_13
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 616
+        width: 53
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f00fd5e9ec062d370800000000000000
+      internalID: 8345839500007436303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hulk2_14
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 616
+        width: 88
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4dc8d7087db4be10800000000000000
+      internalID: 2212601640171130186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hulk2_15
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 616
+        width: 67
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12085cc1fc2fd24e0800000000000000
+      internalID: -2004679287755145183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hulk2_16
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 616
+        width: 70
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecfee0f6013e69e90800000000000000
+      internalID: -7019173309488107570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hulk2_17
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 616
+        width: 87
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87a4dc10fca4f41a0800000000000000
+      internalID: -6823152657494095240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hulk2_18
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 518
+        width: 59
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c4fcd8b2f5119070800000000000000
+      internalID: 8111288536098731206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hulk2_19
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 509
+        width: 64
+        height: 94
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 266e2bb80a56d5440800000000000000
+      internalID: 4926205307626120802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hulk2_20
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 509
+        width: 53
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0474a917c3a52030800000000000000
+      internalID: 3469359163482862604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hulk2_21
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 509
+        width: 54
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda882f1f00844050800000000000000
+      internalID: 5783888623886174941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hulk2_22
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 417
+        width: 60
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed9af06a3a1497cf0800000000000000
+      internalID: -254099732848203298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hulk2_23
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 417
+        width: 107
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620e9aae268400510800000000000000
+      internalID: 1513289064477483046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hulk2_24
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 417
+        width: 107
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffbdf595507af1d20800000000000000
+      internalID: 3251501097400916991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hulk2_25
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 417
+        width: 64
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89d8912c9a89d7b10800000000000000
+      internalID: 1980907265986235800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hulk2_26
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 417
+        width: 64
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582b58df02d3f6040800000000000000
+      internalID: 4642996952743916165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hulk2_27
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 417
+        width: 79
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ef7eab00d6e5600800000000000000
+      internalID: 458924061941562927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hulk2_28
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 417
+        width: 95
+        height: 73
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e618da919f1aec0800000000000000
+      internalID: -3557288341965541865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hulk2_29
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 309
+        width: 60
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92dd511f5c5781090800000000000000
+      internalID: -8063565639793124055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hulk2_30
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 309
+        width: 86
+        height: 101
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b66739ab348361b50800000000000000
+      internalID: 6563495370483267179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hulk2_31
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 309
+        width: 75
+        height: 100
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef295a31324ff580800000000000000
+      internalID: -8791235168404164632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hulk2_32
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 208
+        width: 71
+        height: 104
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69e0a84e670c6e050800000000000000
+      internalID: 5829558384550612630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hulk2_33
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 210
+        width: 76
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bea872935c8aa5330800000000000000
+      internalID: 3700455608859200235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hulk2_34
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 210
+        width: 99
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 706d3025a5af5cf90800000000000000
+      internalID: -6933860785437026809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hulk2_35
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 208
+        width: 48
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7c463806a030e470800000000000000
+      internalID: 8421784792843308158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hulk2_36
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 208
+        width: 71
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479a3a6a1bed3b730800000000000000
+      internalID: 4013796547503565172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hulk2_37
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 201
+        width: 64
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f8e9d2b589b4910800000000000000
+      internalID: 1822717991576309555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hulk2_38
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 108
+        width: 73
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d5232dfe4d411580800000000000000
+      internalID: -8858213990411328040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hulk2_39
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 108
+        width: 57
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b93134898c0104ac0800000000000000
+      internalID: -3873077225804590181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hulk2_40
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 108
+        width: 56
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86733f2ccadfec650800000000000000
+      internalID: 6255215850911119208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hulk2_41
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 107
+        width: 66
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87025b09f8ed04070800000000000000
+      internalID: 8088709638946889848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hulk2_42
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 107
+        width: 86
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4d26e98a1714fe30800000000000000
+      internalID: 4536276127419084108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hulk2_43
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 106
+        width: 85
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88665088837ef2d60800000000000000
+      internalID: 7867761304025785992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hulk2_44
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 107
+        width: 69
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfecf1705a7e71bd0800000000000000
+      internalID: -2659402358963843331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hulk2_45
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 2
+        width: 60
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f26a564b66f40290800000000000000
+      internalID: -7924938503662968071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hulk2_46
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 5
+        width: 88
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3535b77ce92bde2e0800000000000000
+      internalID: -2094821856636087469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hulk2_47
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 6
+        width: 97
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e268ba87af1a3c160800000000000000
+      internalID: 7044652339275990574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hulk2_48
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 7
+        width: 84
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96626f245624ca810800000000000000
+      internalID: 1777868955587061353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hulk2_49
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 7
+        width: 84
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e049da26c3ff9b80800000000000000
+      internalID: -8385715948692619036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
