@@ -5,6 +5,11 @@ using UnityEngine;
 public class PlayerBehaviour : MonoBehaviour
 {
     public float movementSpeed = 5;
+    public float jumpForce = 500;
+    public bool grounded;
+    public float circleGroundArea = 0.5f;
+    public LayerMask whatIsGround;
+    public Transform groundCheck;
     Rigidbody2D rig;
     Animator anim;
     SpriteRenderer spr;
@@ -32,6 +37,19 @@ public class PlayerBehaviour : MonoBehaviour
             spr.flipX = true;
         }
 
+        grounded = Physics2D.OverlapCircle(groundCheck.position, circleGroundArea, whatIsGround);
+
+        if(Input.GetButtonDown("Jump") && grounded){
+            rig.AddForce(Vector2.up * jumpForce);
+        }
+
+        anim.SetBool("jump", !grounded);
     }
 
+    void Update(){
+        if(Input.GetKeyDown(KeyCode.E)){
+            Debug.Log("Attack");
+            anim.SetTrigger("attack");
+        }
+    }
 }
