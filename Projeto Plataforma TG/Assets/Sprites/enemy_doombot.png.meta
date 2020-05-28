@@ -1,0 +1,908 @@
+fileFormatVersion: 2
+guid: 3e04a67b098468447a38d5225f3c6b90
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2213798799964029201
+    second: enemy_doombot_0
+  - first:
+      213: -3880179108630251033
+    second: enemy_doombot_1
+  - first:
+      213: 1454782252872424459
+    second: enemy_doombot_2
+  - first:
+      213: 3061496067330377446
+    second: enemy_doombot_3
+  - first:
+      213: 7576436156311450600
+    second: enemy_doombot_4
+  - first:
+      213: -7485827107188937134
+    second: enemy_doombot_5
+  - first:
+      213: 7016807607096911175
+    second: enemy_doombot_6
+  - first:
+      213: -327045580088547801
+    second: enemy_doombot_7
+  - first:
+      213: 5116946744038600158
+    second: enemy_doombot_8
+  - first:
+      213: 2317864903079511741
+    second: enemy_doombot_9
+  - first:
+      213: 57039935849425695
+    second: enemy_doombot_10
+  - first:
+      213: -1345349147232220550
+    second: enemy_doombot_11
+  - first:
+      213: 551292847485853629
+    second: enemy_doombot_12
+  - first:
+      213: -2811813040423148033
+    second: enemy_doombot_13
+  - first:
+      213: -6411768390898585677
+    second: enemy_doombot_14
+  - first:
+      213: -2244589128074249020
+    second: enemy_doombot_15
+  - first:
+      213: -1420951491508621904
+    second: enemy_doombot_16
+  - first:
+      213: 8629219939030638872
+    second: enemy_doombot_17
+  - first:
+      213: 1800473887063512230
+    second: enemy_doombot_18
+  - first:
+      213: -1278006098906795815
+    second: enemy_doombot_19
+  - first:
+      213: 124359254561754509
+    second: enemy_doombot_20
+  - first:
+      213: 5715817173188122680
+    second: enemy_doombot_21
+  - first:
+      213: -3303098784265631723
+    second: enemy_doombot_22
+  - first:
+      213: -6291411109274693547
+    second: enemy_doombot_23
+  - first:
+      213: -7021615123479212856
+    second: enemy_doombot_24
+  - first:
+      213: 4430322671926053976
+    second: enemy_doombot_25
+  - first:
+      213: -7889105908798431185
+    second: enemy_doombot_26
+  - first:
+      213: 1775700610544322718
+    second: enemy_doombot_27
+  - first:
+      213: -6341018568738743332
+    second: enemy_doombot_28
+  - first:
+      213: -2082716183903188998
+    second: enemy_doombot_29
+  - first:
+      213: -145704679000420587
+    second: enemy_doombot_30
+  - first:
+      213: -2296545518413922198
+    second: enemy_doombot_31
+  - first:
+      213: 7685350457600952793
+    second: enemy_doombot_32
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 30
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enemy_doombot_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 233
+        width: 48
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 111ca04874ef8be10800000000000000
+      internalID: 2213798799964029201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_doombot_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 233
+        width: 42
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9b335a8a5d62ac0800000000000000
+      internalID: -3880179108630251033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_doombot_2
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 233
+        width: 43
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0cd00050cc603410800000000000000
+      internalID: 1454782252872424459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_doombot_3
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 233
+        width: 53
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e68b76e37e9c7a20800000000000000
+      internalID: 3061496067330377446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_doombot_4
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 233
+        width: 85
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3be50ea88e42960800000000000000
+      internalID: 7576436156311450600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_doombot_5
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 231
+        width: 43
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25e630a58effc1890800000000000000
+      internalID: -7485827107188937134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_doombot_6
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 233
+        width: 46
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 745254e8755b06160800000000000000
+      internalID: 7016807607096911175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_doombot_7
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 233
+        width: 43
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726e57517c9167bf0800000000000000
+      internalID: -327045580088547801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_doombot_8
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 233
+        width: 48
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd2305f3fb030740800000000000000
+      internalID: 5116946744038600158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_doombot_9
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 233
+        width: 31
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db6466949d5ba2020800000000000000
+      internalID: 2317864903079511741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_doombot_10
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 233
+        width: 43
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1be05af485aac000800000000000000
+      internalID: 57039935849425695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_doombot_11
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 233
+        width: 43
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7a495c141c545de0800000000000000
+      internalID: -1345349147232220550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_doombot_12
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 233
+        width: 48
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbf9b958ce596a700800000000000000
+      internalID: 551292847485853629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_doombot_13
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 127
+        width: 48
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff564c6ffee6af8d0800000000000000
+      internalID: -2811813040423148033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_doombot_14
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 127
+        width: 42
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bf69669e92d407a0800000000000000
+      internalID: -6411768390898585677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_doombot_15
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 127
+        width: 43
+        height: 72
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cc3e62941e99d0e0800000000000000
+      internalID: -2244589128074249020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_doombot_16
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 127
+        width: 53
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bd2191a524c74ce0800000000000000
+      internalID: -1420951491508621904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_doombot_17
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 126
+        width: 85
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811a3a2a0d521c770800000000000000
+      internalID: 8629219939030638872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_doombot_18
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 125
+        width: 43
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a499c106719cf810800000000000000
+      internalID: 1800473887063512230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_doombot_19
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 127
+        width: 46
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d0b0e5693c934ee0800000000000000
+      internalID: -1278006098906795815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_doombot_20
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 127
+        width: 43
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d8fa84510d9b100800000000000000
+      internalID: 124359254561754509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_doombot_21
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 127
+        width: 48
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83894f07f69a25f40800000000000000
+      internalID: 5715817173188122680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_doombot_22
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 127
+        width: 38
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51882d108290922d0800000000000000
+      internalID: -3303098784265631723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_doombot_23
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 127
+        width: 44
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5505cbfedea60b8a0800000000000000
+      internalID: -6291411109274693547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_doombot_24
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 127
+        width: 44
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ccc28f4f363e8e90800000000000000
+      internalID: -7021615123479212856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_doombot_25
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 127
+        width: 48
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85c038c4ffaab7d30800000000000000
+      internalID: 4430322671926053976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_doombot_26
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 6
+        width: 45
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2062a669f3448290800000000000000
+      internalID: -7889105908798431185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_doombot_27
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 6
+        width: 48
+        height: 98
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9840f61c4e84a810800000000000000
+      internalID: 1775700610544322718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_doombot_28
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 6
+        width: 47
+        height: 99
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbdb28353d2008a0800000000000000
+      internalID: -6341018568738743332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_doombot_29
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 6
+        width: 53
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af74e7a5aa4b813e0800000000000000
+      internalID: -2082716183903188998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_doombot_30
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 6
+        width: 94
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f411ecd5a5afdf0800000000000000
+      internalID: -145704679000420587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_doombot_31
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 6
+        width: 48
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a604c64c4080120e0800000000000000
+      internalID: -2296545518413922198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_doombot_32
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 6
+        width: 48
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d9c0bfb589d7aa60800000000000000
+      internalID: 7685350457600952793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

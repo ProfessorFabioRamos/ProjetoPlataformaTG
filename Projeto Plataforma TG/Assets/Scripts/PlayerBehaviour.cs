@@ -6,10 +6,15 @@ public class PlayerBehaviour : MonoBehaviour
 {
     public float movementSpeed = 5;
     public float jumpForce = 500;
+
     public bool grounded;
     public float circleGroundArea = 0.5f;
     public LayerMask whatIsGround;
     public Transform groundCheck;
+    public bool isJumping;
+    public float jumpTime = 0.5f;
+    private float jumpTimeCounter;
+
     Rigidbody2D rig;
     Animator anim;
     SpriteRenderer spr;
@@ -25,7 +30,7 @@ public class PlayerBehaviour : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-        float h = Input.GetAxis("Horizontal");
+        float h = SimpleInput.GetAxis("Horizontal");
 
         rig.velocity = new Vector2(movementSpeed*h, rig.velocity.y);
         anim.SetFloat("speed", Mathf.Abs(h));
@@ -39,8 +44,27 @@ public class PlayerBehaviour : MonoBehaviour
 
         grounded = Physics2D.OverlapCircle(groundCheck.position, circleGroundArea, whatIsGround);
 
-        if(Input.GetButtonDown("Jump") && grounded){
-            rig.AddForce(Vector2.up * jumpForce);
+        //Input.GetButtonDown
+        if(SimpleInput.GetAxis("Vertical") > 0 && grounded){
+            isJumping = true;
+            jumpTimeCounter = jumpTime;
+            rig.velocity = Vector2.up * jumpForce;
+        }
+
+        //Input.GetButton
+        if(SimpleInput.GetAxis("Vertical") > 0 && isJumping){
+            if(jumpTimeCounter > 0){
+                rig.velocity = Vector2.up * jumpForce;
+                jumpTimeCounter -= Time.deltaTime;
+            }
+            else{
+                isJumping = false;
+            }
+        }
+
+        //Input.GetButtonUp
+        if(SimpleInput.GetAxis("Vertical") == 0){
+            isJumping = false;
         }
 
         anim.SetBool("jump", !grounded);
@@ -51,5 +75,9 @@ public class PlayerBehaviour : MonoBehaviour
             Debug.Log("Attack");
             anim.SetTrigger("attack");
         }
+    }
+
+    public void AttackAnimation(){
+        anim.SetTrigger("attack");
     }
 }
