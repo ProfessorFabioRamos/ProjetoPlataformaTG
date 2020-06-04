@@ -101,6 +101,9 @@ TextureImporter:
   - first:
       213: 7685350457600952793
     second: enemy_doombot_32
+  - first:
+      213: 7059276718555825676
+    second: enemy_doombot_33
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -833,7 +836,7 @@ TextureImporter:
         serializedVersion: 2
         x: 259
         y: 6
-        width: 94
+        width: 63
         height: 88
       alignment: 7
       pivot: {x: 0.5, y: 0}
@@ -886,6 +889,27 @@ TextureImporter:
       bones: []
       spriteID: 9d9c0bfb589d7aa60800000000000000
       internalID: 7685350457600952793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enemy_doombot_33
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 60
+        width: 33
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5170695, y: 0.4926841}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0684bc16c697f160800000000000000
+      internalID: 7059276718555825676
       vertices: []
       indices: 
       edges: []

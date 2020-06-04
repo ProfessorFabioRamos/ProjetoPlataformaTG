@@ -1,9 +1,12 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PlayerBehaviour : MonoBehaviour
 {
+    public int HP = 10;
+    public Slider hpBar;
     public float movementSpeed = 5;
     public float jumpForce = 500;
 
@@ -25,6 +28,7 @@ public class PlayerBehaviour : MonoBehaviour
         rig = GetComponent<Rigidbody2D>();
         anim = GetComponent<Animator>();
         spr = GetComponent<SpriteRenderer>();
+        hpBar.maxValue = HP;
     }
 
     // Update is called once per frame
@@ -75,9 +79,17 @@ public class PlayerBehaviour : MonoBehaviour
             Debug.Log("Attack");
             anim.SetTrigger("attack");
         }
+        hpBar.value = HP;
     }
 
     public void AttackAnimation(){
         anim.SetTrigger("attack");
+    }
+
+    void OnTriggerEnter2D(Collider2D other){
+        Debug.Log("COLISAO");
+        if(other.transform.name == "EnemyBullet(Clone)"){
+            HP -= 1;
+        }
     }
 }
