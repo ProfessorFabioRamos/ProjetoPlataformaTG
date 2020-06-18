@@ -18,7 +18,8 @@ public class Enemy : MonoBehaviour
     public float bulletSpeed = 50;
     public float coolDownTime = 1;
     private float cooldowntimer = 0;
-
+    public int enemyHP = 3;
+    private bool isDead = false;
     // Start is called before the first frame update
     void Start()
     {
@@ -31,47 +32,59 @@ public class Enemy : MonoBehaviour
     // Update is called once per frame
     void FixedUpdate()
     {
-        rig.velocity = new Vector2(movementSpeed*direction, rig.velocity.y);
+        if(!isDead)
+            rig.velocity = new Vector2(movementSpeed*direction, rig.velocity.y);
     }
 
     void Update(){
-        float distance = Vector2.Distance(transform.position, playerPos.position);
+        if(!isDead){
+            float distance = Vector2.Distance(transform.position, playerPos.position);
 
-        if(distance < attackDistance && transform.position.x > playerPos.position.x){
-            direction = -1;
-        }
-        else if(distance < attackDistance && transform.position.x < playerPos.position.x){
-            direction = 1;
-        }
-
-        if(distance < attackDistance && canShoot){
-            anim.SetTrigger("attack");
-            GameObject bul= Instantiate(bullet, shootingPosRight.position, Quaternion.identity);
-            //if(direction == 1) bul.transform.position = new Vector2(shootingPosRight.position.x, bul.transform.position.y);
-            //else if(direction == -1) bul.transform.position = new Vector2(shootingPosLeft.position.x, bul.transform.position.y);
-
-            bul.GetComponent<Rigidbody2D>().velocity = new Vector2(bulletSpeed*direction, 0);
-            canShoot = false;
-            cooldowntimer = coolDownTime;
-        }
-
-        if(!canShoot){
-            cooldowntimer -= Time.deltaTime;
-            if(cooldowntimer <=0){
-                canShoot = true;
+            if(distance < attackDistance && transform.position.x > playerPos.position.x){
+                direction = -1;
             }
-        }
+            else if(distance < attackDistance && transform.position.x < playerPos.position.x){
+                direction = 1;
+            }
 
-        if(direction == 1){
-            spr.flipX = true;            
-        }else{
-            spr.flipX = false;
+            if(distance < attackDistance && canShoot){
+                anim.SetTrigger("attack");
+                GameObject bul= Instantiate(bullet, shootingPosRight.position, Quaternion.identity);
+                //if(direction == 1) bul.transform.position = new Vector2(shootingPosRight.position.x, bul.transform.position.y);
+                //else if(direction == -1) bul.transform.position = new Vector2(shootingPosLeft.position.x, bul.transform.position.y);
+
+                bul.GetComponent<Rigidbody2D>().velocity = new Vector2(bulletSpeed*direction, 0);
+                canShoot = false;
+                cooldowntimer = coolDownTime;
+            }
+
+            if(!canShoot){
+                cooldowntimer -= Time.deltaTime;
+                if(cooldowntimer <=0){
+                    canShoot = true;
+                }
+            }
+
+            if(direction == 1){
+                spr.flipX = true;            
+            }else{
+                spr.flipX = false;
+            }
         }
     }
 
     void OnTriggerEnter2D(Collider2D other){
         if(other.tag == "Limiter"){
             direction *= -1;
+        }
+    }
+
+    public void TakeDamage(int damage){
+        enemyHP -= damage;
+        if(enemyHP <=0){
+            anim.SetTrigger("dead");
+            isDead = true;
+            Destroy(this.gameObject, 3);
         }
     }
 }

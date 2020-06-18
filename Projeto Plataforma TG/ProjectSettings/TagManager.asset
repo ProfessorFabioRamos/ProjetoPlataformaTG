@@ -5,6 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - Limiter
+  - Enemy
+  - HealingItem
+  - EndLevel
   layers:
   - Default
   - TransparentFX
